@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "lm_comfy"
+version = "1.0.0"
+name = "LM Comfy"
+tagline = "One-click import of the latest ComfyUI .glb into your scene"
+maintainer = "Hugh Compton"
+type = "add-on"
+tags = ["Import-Export", "Object"]
+blender_version_min = "5.2.0"
+blender_version_max = "6.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Lake-Mist"]
